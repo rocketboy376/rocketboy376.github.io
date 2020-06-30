@@ -8,3 +8,5 @@ Im Jahr 0 vor der Schlacht von Yavin nahm Vader mit der Devastator die Verfolgun
 * mag rote Lichtschwerter
 
 > Die Macht ist stark in diesem da!
+
+<img src="https://www.jedipedia.net/w/images/7/79/VadersKapsel.jpg"/>
