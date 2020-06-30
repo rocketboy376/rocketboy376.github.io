@@ -6,3 +6,5 @@ Im Jahr 0 vor der Schlacht von Yavin nahm Vader mit der Devastator die Verfolgun
 * liebt es, andere zu würfen
 * hasst Sand
 * mag rote Lichtschwerter
+
+> Die Macht ist stark in diesem da!
